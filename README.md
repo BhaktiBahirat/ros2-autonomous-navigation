@@ -15,7 +15,7 @@ The system performs waypoint-based navigation and reaches goals without using RV
 - TurtleBot3 navigation
 - Waypoint-based navigation
 - Goal execution using Python node
-- No RViz dependency
+- No RViz pose estimation dependency
 - Pose estimation using TF frames
 
 ---
