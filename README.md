@@ -32,6 +32,8 @@ The system performs waypoint-based navigation and reaches goals without using RV
 ## 💡 Key Highlight
 This project enables fully autonomous navigation by sending goal poses programmatically instead of using RViz.
 
+##Demo
+https://youtu.be/pmYnOkmgQRw?si=ESTAqAY6hQI--EbL
 ---
 
 ## 📖 Setup & Run
